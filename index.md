@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Welcome to My Home Pages
 
-You can use the [editor on GitHub](https://github.com/tensorxx/HomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
-### Markdown
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+<a href= "https://github.com/tensorxx"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://github.com/tensorxx"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://github.com/tensorxx"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```text
+Python          3 hrs 31 mins   ██████████████░░░░░░░░░░    58.33 % 
+Java            1 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░    25.00 % 
+JavaScript/CSS        33 mins   ██░░░░░░░░░░░░░░░░░░░░░░    08.34 % 
+MarkDown              31 mins   ██░░░░░░░░░░░░░░░░░░░░░░    08.33 % 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* GitHub stats:  
+<a href="https://github.com/tensorxx/github-readme-stats">
+  <!-- Change the `github-readme-stats.tensorxx.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorxx&langs_count=5" />
+</a>
+<a href="https://github.com/tensorxx/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tensorxx&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tensorxx/HomePage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](https://visitor-badge.glitch.me/badge?page_id=tensorxx.tensorxx)
 
-### Support or Contact
+<!--
+**tensorxx/tensorxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Here are some ideas to get you started:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
